@@ -1,0 +1,24 @@
+#body{
+    text-align: center;
+}
+
+#Home{
+    
+    
+    height: 200;
+    width: 400;
+}
+.en_li{
+    margin-top: 13px;
+}
+.en_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.en_li img{
+    border-radius: 25px;
+}
+.en_li p{
+    font-size: 20px;
+    margin-top: 10px;
+}
